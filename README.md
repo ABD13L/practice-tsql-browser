@@ -27,3 +27,6 @@ This project was bootstrapped to solve a real educational problem. Database stud
 This is a bootstrapped project actively maintained by the team at **Zone 0**. We are constantly looking to improve the engine. 
 
 If you want to leave feedback, report a bug, or suggest a feature, please visit [tsqlsandbox.online](https://tsqlsandbox.online) and use the built-in feedback message icon.
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gc8ytia090rfrblq6t2c.png)
